@@ -13,3 +13,4 @@ winget install 7zip.7zip
   Microsoft.WindowsTerminal
   Microsoft.PowerToys
   DevToys-app.DevToys
+  Datronicsoft.SpacedeskDriver.Server
