@@ -1,0 +1,14 @@
+[user]
+	name = 'senar'
+	email = '2273220457@qq.com'
+[alias]
+	br = branch
+	co = checkout
+	pl = pull
+	ps = push
+	a = add
+	su = status
+[log]
+	date = iso
+[credential "https://gitee.com"]
+	provider = generic
