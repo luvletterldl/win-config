@@ -11,3 +11,5 @@ winget install 7zip.7zip
   Telegram.TelegramDesktop
   Tencent.WeCom
   Microsoft.WindowsTerminal
+  Microsoft.PowerToys
+  DevToys-app.DevToys
