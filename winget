@@ -1,0 +1,13 @@
+winget install 7zip.7zip
+  Git.Git
+  Mozilla.Firefox
+  Starship.Starship
+  Microsoft.VisualStudioCode
+  Google.Chrome.EXE
+  OBSProject.OBSStudio
+  Tencent.WeChat
+  Microsoft.VisualStudio.2022.Community
+  SQLite.SQLite
+  Telegram.TelegramDesktop
+  Tencent.WeCom
+  Microsoft.WindowsTerminal
